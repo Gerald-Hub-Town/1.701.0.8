@@ -51,6 +51,7 @@ namespace LCRTest
         public fMain()
         {
             InitializeComponent();
+
         }
 
         public fMain(string  UserId)
